@@ -1,4 +1,4 @@
-### Hi there, I am a developer 👋
+### Hi there, I am a student developer 👋
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -21,7 +21,7 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 <!--
-**kautukkundan/kautukkundan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cyvid7-Darus10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
