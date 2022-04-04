@@ -1,4 +1,6 @@
-<!-- ![ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove) <br>
+<!-- 
+
+![ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,php,py,react,rails,mysql,postgres)](https://skillicons.dev)
 ![About Me](https://github.com/Cyvid7-Darus10/Cyvid7-Darus10/blob/master/intro.gif)
 
@@ -12,8 +14,7 @@ I'm in my third year of computer science study. I have web development experienc
  
 <h1 align="center">Hi 👋, I'm Cyrus David</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
-
-<p align="center"> ![ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove)  </p>
+![ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyvid7-darus10" alt="cyvid7-darus10" /></a> </p>
 
