@@ -3,7 +3,7 @@
 ![About Me](https://github.com/Cyvid7-Darus10/Cyvid7-Darus10/blob/master/intro.gif)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cyvid7-Darus10&theme=tokyonight)]() -->
+I'm in my third year of computer science study. I have web development experience and am a quick learner of programming languages. During my first year of college, I began with C++, fell in love with Python, and had a secret love affair with Ruby and typed languages.  Computer Vision and Tracking Systems have recently piqued my interest.
 
 
 ![Cyrus' github stats](https://github-readme-stats.vercel.app/api?username=Cyvid7-Darus10&count_private=true&show_icons=true&theme=radical)
