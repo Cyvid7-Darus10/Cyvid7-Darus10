@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cyrus David</h1>
 <h3 align="center">A passionate full-stack developer from the Philippines</h3>
-<span alight="center"> ![ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove) <br> <span>
+![ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove) <br>
 
 
 <h4>
