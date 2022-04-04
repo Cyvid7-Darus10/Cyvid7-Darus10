@@ -13,7 +13,7 @@ I'm in my third year of computer science study. I have web development experienc
 <h1 align="center">Hi 👋, I'm Cyrus David</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyvid7-darus10&label=Profile%20views&color=0e75b6&style=flat" alt="cyvid7-darus10" /> </p>
+<p align="center"> [ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove) </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyvid7-darus10" alt="cyvid7-darus10" /></a> </p>
 
