@@ -4,8 +4,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,php,py,react,rails,mysql,postgres)](https://skillicons.dev)
 ![About Me](https://github.com/Cyvid7-Darus10/Cyvid7-Darus10/blob/master/intro.gif)
 
-
+<h3>
 I'm in my third year of computer science study. I have web development experience and am a quick learner of programming languages. During my first year of college, I began with C++, fell in love with Python, and had a secret love affair with Ruby and typed languages.  Computer Vision and Tracking Systems have recently piqued my interest.
+</h3>
+
 
 
 ![Cyrus' github stats](https://github-readme-stats.vercel.app/api?username=Cyvid7-Darus10&count_private=true&show_icons=true&theme=radical)
