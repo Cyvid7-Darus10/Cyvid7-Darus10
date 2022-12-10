@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full-stack developer from the Philippines</h3>
 
 <h4>
-I'm in my third year of computer science study. I have web development experience and am a quick learner of programming languages. During my first year of college, I began with C++, fell in love with Python, and had a secret love affair with Ruby and typed languages.  Computer Vision and Tracking Systems have recently piqued my interest.
-</h4>
-
+Hello, you can call me Cyrus, and I am a fourth-year computer science student with two years of experience in web and mobile development. I am a full-stack developer, which means I have the skills and knowledge to design and build applications from the ground up, including both front-end and back-end components. I am passionate about creating user-friendly applications that are engaging and effective, while also making sure they are secure and reliable.
 <hr>
 
 ![ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove) <br>
