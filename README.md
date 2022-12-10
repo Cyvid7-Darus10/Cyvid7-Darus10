@@ -9,7 +9,7 @@ I'm in my third year of computer science study. I have web development experienc
 
 ![ViewCount](https://views.whatilearened.today/views/github/Cyvid7-Darus10/Cyvid7-Darus10.svg?cache=remove) <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,php,py,react,rails,mysql,postgres,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,php,py,react,rails,mysql,postgres,bootstrap,nextjs,aws,nodejs,mongodb)](https://skillicons.dev)
 <!-- ![About Me](https://github.com/Cyvid7-Darus10/Cyvid7-Darus10/blob/master/intro.gif) -->
 
 
