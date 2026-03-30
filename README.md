@@ -9,6 +9,7 @@ Software engineer from Cebu, Philippines. I build web apps, mobile apps, and dev
 - [Hanyu](https://hanyu.app) — Chinese language learning app
 - [OweMate](https://owemate.app) — Expense splitting app for shared living
 - [Claude Code Config](https://github.com/Cyvid7-Darus10/claude-code-config) — My Claude Code setup: 29 agents, 60 skills, 65 rules
+- [Dotfiles](https://github.com/Cyvid7-Darus10/dotfiles) — Personal dotfiles managed with GNU Stow, Catppuccin Mocha theme
 
 **Tech I use:**
 TypeScript · Swift · Next.js · React · Node.js · Supabase · AWS · Electron
