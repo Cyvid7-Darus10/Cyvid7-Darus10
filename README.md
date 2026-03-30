@@ -4,8 +4,10 @@ Software engineer from Cebu, Philippines. I build web apps, mobile apps, and dev
 
 **Currently building:**
 - [Akawntant](https://akawntant.review) — Accounting board exam reviewer with AI-generated explanations
+- [Arkitekto](https://arkitekto.review) — Architecture board exam reviewer for Philippine architects
 - [Isip](https://isip.pastelero.ph) — Todo + journal iOS app with on-device AI
 - [Hanyu](https://hanyu.app) — Chinese language learning app
+- [OweMate](https://owemate.app) — Expense splitting app for shared living
 - [Claude Code Config](https://github.com/Cyvid7-Darus10/claude-code-config) — My Claude Code setup: 29 agents, 60 skills, 65 rules
 
 **Tech I use:**
