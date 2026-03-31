@@ -3,6 +3,7 @@
 Software engineer from Cebu, Philippines. I build web apps, mobile apps, and developer tools as hobby projects — mostly for experimenting and learning new stuff.
 
 **Currently building:**
+- [Claude Mission Control](https://github.com/Cyvid7-Darus10/claude-mission-control) — Real-time command center for Claude Code agents — cost tracking, anti-pattern detection, security monitoring
 - [Akawntant](https://akawntant.review) — Accounting board exam reviewer with AI-generated explanations
 - [Arkitekto](https://arkitekto.review) — Architecture board exam reviewer for Philippine architects
 - [Isip](https://isip.pastelero.ph) — Todo + journal iOS app with on-device AI
