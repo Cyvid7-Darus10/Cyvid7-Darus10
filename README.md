@@ -40,7 +40,6 @@ A couple of friends back home were preparing for their Philippine board exams, s
 
 ---
 
-**Side projects:** Swift · Next.js · React · Supabase · Electron
-**At work:** TypeScript · Node.js · AWS
+**Tech I use:** TypeScript · Swift · Next.js · React · Node.js · Supabase · AWS · Electron
 
 [Website](https://cyrus.pastelero.ph) · [LinkedIn](https://linkedin.com/in/cdpastelero) · cyrus@pastelero.ph
