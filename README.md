@@ -28,6 +28,7 @@ A couple of friends back home were preparing for their Philippine board exams, s
 
 - **[Isip](https://isip.pastelero.ph)** — A todo + journal iOS app with on-device AI. I built this because I wanted something simple that works offline.
 - **[Hanyu](https://hanyu.app)** — I'm learning Mandarin, so I made my own language learning app.
+- **[Tipid](https://tipid.pastelero.ph)** — A privacy-first budget tracker for iOS. Fully offline, on-device AI, no subscriptions.
 - **[Task Floater](https://github.com/Cyvid7-Darus10/task-floater)** — A floating task manager for macOS with a built-in pomodoro timer.
 
 ---
