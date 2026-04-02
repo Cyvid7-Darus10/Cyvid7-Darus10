@@ -36,7 +36,7 @@ A couple of friends back home were preparing for their Philippine board exams, s
 #### Developer Tools
 
 - **[Claude Mission Control](https://github.com/Cyvid7-Darus10/claude-mission-control)** — A real-time command center for Claude Code agents. Track costs, detect stuck agents, monitor security — works from your phone.
-- **[Sentinel Feed](https://sentinel-feed.vercel.app)** — My personal tech news feed. AI-summarized news from Hacker News, GitHub trending, and changelogs.
+- **[Sentinel Feed](https://sentinel-feed.pastelero.ph)** — My personal tech news feed. AI-summarized news from Hacker News, GitHub trending, and changelogs.
 
 ---
 
