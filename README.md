@@ -52,4 +52,4 @@ And one for me:
 
 **Tech I use:** TypeScript · Swift · Go · Python · Next.js · React · Node.js · Supabase · AWS · Electron
 
-[Website](https://cyrus.pastelero.ph) · [LinkedIn](https://linkedin.com/in/cdpastelero) · cyrus@pastelero.ph
+[Website](https://www.pastelero.ph) · [LinkedIn](https://linkedin.com/in/cdpastelero) · cyrus@pastelero.ph
